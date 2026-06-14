@@ -25,7 +25,7 @@ Bu proje, Spring Boot tabanlı bir Java uygulamasında birim testler ve entegras
 
 ## Paketler ve Sınıflar
 
-- `com.elifcelik.testlab`: `Demos2Application`
+- `com.elifcelik.testlab`: `TestlabApplication`
 - `com.elifcelik.testlab.integrationTestCases.dataJpaTest`
   - `Product`, `ProductRepository`, `ProductService`, `ProductController`
 - `com.elifcelik.testlab.unitTestCases.easyDemo`
