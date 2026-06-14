@@ -1,4 +1,4 @@
-# JUnit Integration Test Demo
+# JUnit && Integration Test Demo
 
 Bu proje, Spring Boot tabanlı bir Java uygulamasında birim testler ve entegrasyon testlerinin nasıl yapılandırıldığını ve çalıştırıldığını göstermek için hazırlanmıştır.
 
